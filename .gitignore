@@ -27,7 +27,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-
-### Project docs (contain team member student IDs, not for public repo) ###
-project.pdf
-report.pdf
